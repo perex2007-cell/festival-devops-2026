@@ -1,9 +1,13 @@
-name: Comprobacion de push
+name: Validacion de archivos y pulls 
 
 on:
   push:
-    branches:
-      - main
+      branches:
+        - main
+
+  pull_request:
+       branches:
+          - main
 
 jobs:
   validar:
@@ -20,5 +24,8 @@ jobs:
 
       - name: Verificar JS
         run: test -f js/script.js
+
+      - name: Verificar README
+        run: test -f README.md  
 
         
