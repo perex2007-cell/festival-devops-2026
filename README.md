@@ -1,4 +1,4 @@
-[![Comprobacion de push](https://github.com/perex2007-cell/festival-devops-2026/actions/workflows/main.yml/badge.svg)](https://github.com/perex2007-cell/festival-devops-2026/actions/workflows/main.yml)
+[![Validacion de archivos y pulls](https://github.com/perex2007-cell/festival-devops-2026/actions/workflows/ci.yml/badge.svg)](https://github.com/perex2007-cell/festival-devops-2026/actions/workflows/ci.yml)
 
 # 🎵 Festival DevOps Music Fest
 
