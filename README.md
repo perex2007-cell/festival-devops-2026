@@ -1,4 +1,4 @@
-Aquí tienes un **README.md más completo y organizado**, adecuado para entregar en la actividad.
+[![Comprobacion de push](https://github.com/perex2007-cell/festival-devops-2026/actions/workflows/main.yml/badge.svg)](https://github.com/perex2007-cell/festival-devops-2026/actions/workflows/main.yml)
 
 # 🎵 Festival DevOps Music Fest
 
@@ -123,3 +123,5 @@ Proyecto desarrollado como actividad de aprendizaje del programa DevOps y Conten
 SENA – Centro de Tecnología y Manufactura Avanzada (CTMA)
 
 Año: 2026
+
+
