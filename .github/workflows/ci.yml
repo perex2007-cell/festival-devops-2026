@@ -17,13 +17,13 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: verificar index.html
-        run: test -f index.html
+        run: test -f frontend/index.html
 
       - name: Verificar css
-        run: test -f css/style.css
+        run: test -f frontend/style.css
 
-      - name: Verificar JS
-        run: test -f js/script.js
+      - name: Verificar PY
+        run: test -f backend/app.py
 
       - name: Verificar README
         run: test -f README.md  
